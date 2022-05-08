@@ -54,7 +54,6 @@ def source(s):
     else:
         sm = 1
 
-    print(cmd)
     print(cmd if sm == 0 else "No command found")
 
 for phrase in LiveSpeech(): source(phrase)
