@@ -1,0 +1,72 @@
+    -----------------------------------------------
+    Command List:
+    a, no, why, stop, five, sorry, good, more, so
+    -----------------------------------------------
+    
+    Editor:
+    >> a 		    == geany editor
+    
+    
+    
+    
+    
+    
+    
+
+    Settings:
+    >> no == settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Wifi:
+    >> why == wifi connect
+    >> stop == disconnect wifi
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    Connect andriod:
+    >> five 	 == start a port
+    >> sorry     == connect android
+    
+    
+    
+    
+    
+    
+    
+
+    Update:
+    >> good, update 	== update linux
+    >> more, upgrade 	== upgrade linux
+    
+    
+    
+    
+    
+    
+    
+    
+
+    Youtube:
+    >> so    	== play a song
+    
+    --------------------------------------------------
