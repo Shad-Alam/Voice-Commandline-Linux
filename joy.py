@@ -53,7 +53,6 @@ def source(s):
         os.system("rfkill block wifi")
     else:
         sm = 1
-
     print(cmd if sm == 0 else "No command found")
 
 for phrase in LiveSpeech(): source(phrase)
