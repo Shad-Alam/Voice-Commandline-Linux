@@ -18,6 +18,6 @@ Implementation process:
 
 Link for Pocketsphinx: https://githubhot.com/repo/bambocher/pocketsphinx-python
 
-Vedio presentation link : https://youtu.be/-xsSXRHfxRE
+Video presentation link : https://youtu.be/-xsSXRHfxRE
 
 * Released: May 10, 2022
