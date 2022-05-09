@@ -4,8 +4,9 @@ Language   : Python
 
 Contributor: Shad-Alam
 
-== Description ==
-This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. 
+Description:
+
+- This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. 
 
 Process:
 1. First need voice.Voice convert into text.
