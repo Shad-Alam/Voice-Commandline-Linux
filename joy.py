@@ -41,10 +41,6 @@ def source(s):
         print("-----------------------------------------------------------------")
         print("-----------------------------------------------------------------")
         os.system("scrcpy")
-    elif cmd == "good" or cmd == "update":
-        os.system("sudo apt update")
-    elif cmd == "more" or cmd == "upgrade":
-        os.system("sudo apt upgrade")
     elif cmd == "settings" or cmd == "setting" or cmd == "no":
         os.system("gnome-terminal --command=gnome-control-center wifi")
     elif cmd == "star" or cmd == "start" or cmd == "why":
