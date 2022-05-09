@@ -1,4 +1,4 @@
-Project    : Voice Command Line in Linux 
+Project    : Voice Command Line in Linux Operating System
 
 Language   : Python
 
