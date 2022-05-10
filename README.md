@@ -13,11 +13,11 @@ Process:
 2. Text can execute original command.
 
 Implementation process:
-1. Pocketsphinx is for Speech Recognition. It can convert speech to text. 
+1. Pocketsphinx is for Speech Recognition. It can convert speech to text.
+   Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
 2. If text is match, it will execute original command by using system function.
 
-Link for Pocketsphinx: https://githubhot.com/repo/bambocher/pocketsphinx-python
-
-Video presentation link : https://youtu.be/-xsSXRHfxRE
+Project presentation:
+Video Link : https://youtu.be/-xsSXRHfxRE
 
 * Released: May 10, 2022
