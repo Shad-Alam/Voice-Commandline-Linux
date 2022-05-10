@@ -17,7 +17,6 @@ Implementation process:
    Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
 2. If text is match, it will execute original command by using system function.
 
-Project presentation:
-Video Link : https://youtu.be/-xsSXRHfxRE
+Project video presentation: https://youtu.be/-xsSXRHfxRE
 
 * Released: May 10, 2022
