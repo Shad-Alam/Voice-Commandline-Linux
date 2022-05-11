@@ -26,6 +26,19 @@ Implementation process:
    Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
 2. If text is match, it will execute original command by using system function.
 
+How to use this?
+
+- sudo apt install geany
+
+- sudo apt install scrcpy
+
+1. open terminal and run
+  - git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git
+  
+2. cd Voice-Commandline-Linux
+
+3. python3 joy.py
+
 Project video presentation: https://youtu.be/-xsSXRHfxRE
 
 * Released: May 10, 2022
