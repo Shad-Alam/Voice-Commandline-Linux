@@ -1,23 +1,23 @@
-# Project    : Voice Command Line in Linux Operating System
-# Language   : Python
-# Contributor: Shad-Alam
+## Project    : Voice Command Line in Linux Operating System
+## Language   : Python
+## Contributor: Shad-Alam
 
-Description:
+**Description:**
 
 - This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. I tested this project on ubuntu 20.04. In this project, I tried to show how simple you can control your linux operating system by using your voice command.
 
 - In voice command line, need to speak something. Voice can convert into original command, command can control you operating system. Any kinds of desktop application open or close, settings control and anything you can control by using your voice.
 
-Process:
+**Process:**
 1. First need voice.Voice convert into text.
 2. Text can execute original command.
 
-Implementation process:
+**Implementation process:**
 1. Pocketsphinx is for Speech Recognition. It can convert speech to text.
    - Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
 2. When text match with command, it will be execute original command by using system function.
 
-How to run this project?
+**How to run this project?**
 
 First install,
 
@@ -33,6 +33,6 @@ Now,
 
 3. python3 joy.py
 
-Project video presentation: https://youtu.be/-xsSXRHfxRE
+## Project video presentation: https://youtu.be/-xsSXRHfxRE
 
 * Released: May 10, 2022
