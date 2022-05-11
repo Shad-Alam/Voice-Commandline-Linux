@@ -1,6 +1,9 @@
-## Project    : Voice Command Line in Linux Operating System <br/>
-## Language   : Python <br/>
-## Contributor: Shad-Alam <br/> <br/>
+<br/>
+## Project    : Voice Command Line in Linux Operating System 
+## Language   : Python
+## Contributor: Shad-Alam 
+
+
 
 :writing_hand: **Description:** <br/>
 
