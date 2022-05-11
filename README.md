@@ -26,7 +26,7 @@ First install,
 
 Now,
 
-1. open terminal and run
+1. Open terminal and run
   - git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git
   
 2. cd Voice-Commandline-Linux
