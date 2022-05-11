@@ -1,8 +1,6 @@
-**Project    : Voice Command Line in Linux Operating System**
-
-Language   : Python
-
-Contributor: Shad-Alam
+# Project    : Voice Command Line in Linux Operating System
+# Language   : Python
+# Contributor: Shad-Alam
 
 Description:
 
