@@ -7,7 +7,7 @@
 
 :writing_hand: **Description:** <br/>
 
-- This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. I tested this project on ubuntu 20.04. In this project, I tried to show how simple you can control your linux operating system by using your voice command.
+- This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. I tested this project on ubuntu 20.04. In this project, I tried to show how simply you can control your linux operating system by using your voice command.
 
 - In voice command line, need to speak something. Voice can convert into original command, command can control you operating system. Any kinds of desktop application open or close, settings control and anything you can control by using your voice.
 
