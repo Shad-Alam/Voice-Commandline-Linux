@@ -6,7 +6,7 @@ Contributor: Shad-Alam
 
 Description:
 
-- This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. I tested this project on ubuntu 20.04.
+- This is a simple voice command line project for Linux Operating System. In this project, I execute linux command by using voice. I tested this project on ubuntu 20.04. In this project, I tried to show how simple you can control your linux operating system by using your voice command.
 
 Process:
 1. First need voice.Voice convert into text.
