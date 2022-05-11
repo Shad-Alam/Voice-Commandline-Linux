@@ -8,27 +8,25 @@
 
 - In voice command line, need to speak something. Voice can convert into original command, command can control you operating system. Any kinds of desktop application open or close, settings control and anything you can control by using your voice.
 
-**Process:** <br/>
+:point_right:**Process:** <br/>
 1. First need voice.Voice convert into text. <br/>
 2. Text can execute original command. <br/>
 
-**Implementation process:** <br/>
+:point_right:**Implementation process:** <br/>
 1. Pocketsphinx is for Speech Recognition. It can convert speech to text. <br/>
    - Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python <br/>
 2. When text match with command, it will be execute original command by using system function. <br/>
 
-**How to run this project?**
+:point_right:**How to run this project?**
 
 First install, <br/>
 - sudo apt install geany <br/>
 - sudo apt install scrcpy <br/>
 
-Now,
-
-Open terminal and run <br/> <br/>
-  :point_right:   git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git <br/> <br/>
-  :point_right:   cd Voice-Commandline-Linux <br/> <br/>
-  :point_right:   python3 joy.py <br/> <br/>
+Now, open terminal and run <br/> <br/>
+  - git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git <br/> 
+  - cd Voice-Commandline-Linux <br/> 
+  - python3 joy.py <br/> 
 
 ## Project video presentation: https://youtu.be/-xsSXRHfxRE
 
