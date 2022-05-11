@@ -24,7 +24,7 @@ Implementation process:
 	-sudo apt-get install -qq python-dev python-pip build-essential swig git libpulse-dev libasound2-dev
    
    Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
-2. If text is match, it will execute original command by using system function.
+2. When text match with command, it will be execute original command by using system function.
 
 How to run this project?
 
