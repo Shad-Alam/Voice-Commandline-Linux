@@ -11,6 +11,7 @@
 
 - In voice command line, need to speak something. Voice can convert into original command, command can control you operating system. Any kinds of desktop application open or close, settings control and anything you can control by using your voice.
 
+
 :point_right: **Process:**
 
 1. First need voice.Voice convert into text. <br/>
