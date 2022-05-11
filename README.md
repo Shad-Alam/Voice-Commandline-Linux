@@ -16,7 +16,8 @@ Implementation process:
 1. Pocketsphinx is for Speech Recognition. It can convert speech to text.
 
    Pocketsphinx installation process:
-   	-sudo apt-get update
+   	
+	-sudo apt-get update
 	
 	-sudo apt-get install pocketsphinx
 	
