@@ -14,16 +14,7 @@ Process:
 
 Implementation process:
 1. Pocketsphinx is for Speech Recognition. It can convert speech to text.
-
-   Pocketsphinx installation process:
-   	
-	-sudo apt-get update
-	
-	-sudo apt-get install pocketsphinx
-	
-	-sudo apt-get install -qq python-dev python-pip build-essential swig git libpulse-dev libasound2-dev
-   
-   Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
+   - Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
 2. When text match with command, it will be execute original command by using system function.
 
 How to run this project?
@@ -31,7 +22,6 @@ How to run this project?
 First install,
 
 - sudo apt install geany
-
 - sudo apt install scrcpy
 
 Now,
