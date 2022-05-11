@@ -21,7 +21,7 @@ Implementation process:
 	
 	-sudo apt-get install pocketsphinx
 	
-	-sudo apt-get install -qq python3-dev python3-pip build-essential swig git libpulse-dev libasound2-dev
+	-sudo apt-get install -qq python-dev python-pip build-essential swig git libpulse-dev libasound2-dev
    
    Offical Installation link: https://githubhot.com/repo/bambocher/pocketsphinx-python 
 2. If text is match, it will execute original command by using system function.
