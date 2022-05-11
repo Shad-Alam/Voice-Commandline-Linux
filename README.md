@@ -27,9 +27,9 @@ First install,
 Now,
 
 Open terminal and run
-  :point_right: git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git
-  :point_right: cd Voice-Commandline-Linux
-  :point_right: python3 joy.py
+  :point_right: git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git <br/>
+  :point_right: cd Voice-Commandline-Linux <br/>
+  :point_right: python3 joy.py <br/>
 
 ## Project video presentation: https://youtu.be/-xsSXRHfxRE
 
