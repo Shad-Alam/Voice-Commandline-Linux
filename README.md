@@ -23,12 +23,7 @@
 2. When text match with command, it will be execute original command by using system function. <br/> <br/>
 
 :point_right:     **How to run this project?**
-
-First install, <br/>
-- sudo apt install geany <br/>
-- sudo apt install scrcpy <br/>
-
-Now, open terminal and run <br/> 
+<br/>
   - git clone https://github.com/Shad-Alam/Voice-Commandline-Linux.git <br/> 
   - cd Voice-Commandline-Linux <br/> 
   - python3 joy.py <br/> 
